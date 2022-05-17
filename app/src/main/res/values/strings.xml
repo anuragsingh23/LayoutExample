@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LayoutExample</string>
+    <string name="week">Week in Paris</string>
+    <string name="second">2021 Fashion show in paris</string>
+    <string name="explore">Explore</string>
+    <string name="recommended">Recommended</string>
+    <string name="newm">New Models</string>
+    <string name="show">2020 Show</string>
+    <string name="nik">Niketa Willaim</string>
+    <string name="paris">Paris</string>
+    <string name="tris">Trisha Loius</string>
+    <string name="london">London</string>
+
+
+</resources>
